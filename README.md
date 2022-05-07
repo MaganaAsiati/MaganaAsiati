@@ -22,8 +22,12 @@ const asiatiMagana = {
 }
 ```
 
- 
-- 💼 any freelance work? do reach, [email](mailto:mailto:assia.magana@gmail.com) :)
+ - 🔭 I’m currently working on  [To do list](https://maganaasiati.github.io)
+- 🌱 I’m currently learning Web development
+- 👯 I’m looking to collaborate on open-source projects
+- 📫 How to reach me: - GitHub: [@MaganaAsiati ](https://github.com/MaganaAsiati) ,Twitter: [@asia_magana](https://twitter.com/asia_magana), LinkedIn: [Asia Magana](https://www.linkedin.com/in/asia-magana-60b451200/)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: Do not listen to African music while working! No one can stop you from dancing 😆
 - 💬 ask me about anything, i am happy to help;
 
 ## Programming languages
